@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
